@@ -21,34 +21,22 @@ The Church Member Registration App simplifies member management and attendance t
 
 Below are screenshots of the app's key features:
 
-| View Articles                          | Create Deadlines                       |
+|                           | Create Deadlines                       |
 |----------------------------------------|----------------------------------------|
-| ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) |
+| ![](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img1.jpeg) |
 
 | Upload Documents                       | User Interface                         |
 |----------------------------------------|----------------------------------------|
-| ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) |
+| ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img2.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img3.jpeg) |
 
 | Upload Documents                       | User Interface                         |
 |----------------------------------------|----------------------------------------|
-| ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) |
+| ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img4.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img5.jpeg) |
 
 
 | Upload Documents                       | User Interface                         |
 |----------------------------------------|----------------------------------------|
-| ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) |
-
-### Member Registration
-![Member Registration](IMAGE_PATH/member_registration.png)
-
-### Attendance Tracking
-![Attendance Tracking](IMAGE_PATH/attendance_tracking.png)
-
-### Anniversary Reminders
-![Anniversary Reminders](IMAGE_PATH/anniversary_reminders.png)
-
-### Report Generation
-![Report Generation](IMAGE_PATH/report_generation.png)
+| ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img6.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img7.jpeg) |
 
 ## Getting Started
 
