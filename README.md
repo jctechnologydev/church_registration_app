@@ -21,22 +21,22 @@ The Church Member Registration App simplifies member management and attendance t
 
 Below are screenshots of the app's key features:
 
-|                           | Create Deadlines                       |
+|                           |                      |
 |----------------------------------------|----------------------------------------|
-| ![](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img1.jpeg) |
+| ![](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) | ![](https://joeljonassi.github.io/assets/images/Church%20App/img1.jpeg) |
 
-| Upload Documents                       | User Interface                         |
+|                    |                         |
 |----------------------------------------|----------------------------------------|
-| ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img2.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img3.jpeg) |
+| ![](https://joeljonassi.github.io/assets/images/Church%20App/img2.jpeg) | ![](https://joeljonassi.github.io/assets/images/Church%20App/img3.jpeg) |
 
-| Upload Documents                       | User Interface                         |
+|                      |                         |
 |----------------------------------------|----------------------------------------|
-| ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img4.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img5.jpeg) |
+| ![](https://joeljonassi.github.io/assets/images/Church%20App/img4.jpeg) | ![](https://joeljonassi.github.io/assets/images/Church%20App/img5.jpeg) |
 
 
-| Upload Documents                       | User Interface                         |
+|                      |                        |
 |----------------------------------------|----------------------------------------|
-| ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img6.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img7.jpeg) |
+| ![](https://joeljonassi.github.io/assets/images/Church%20App/img6.jpeg) | ![](https://joeljonassi.github.io/assets/images/Church%20App/img7.jpeg) |
 
 ## Getting Started
 
