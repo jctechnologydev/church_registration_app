@@ -40,4 +40,4 @@ Below are screenshots of the app's key features:
 
 ## Getting Started
 
-Explore the source code, detailed documentation, and reports for the Church Member Registration Ap: [Project Info](https://github.com/joeljonassi/church-member-registration-app)
+Explore the source here code, detailed documentation, and reports for the Church Member Registration App: [Project Info](https://github.com/joeljonassi/church-member-registration-app)
