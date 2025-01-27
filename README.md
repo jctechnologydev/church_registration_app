@@ -19,17 +19,24 @@ The Church Member Registration App simplifies member management and attendance t
 
 ## App Screenshots
 
-Add images showcasing the app's features and interface here. Replace `IMAGE_PATH` with the relative path or URL to your images.
+Below are screenshots of the app's key features:
 
-### Home Screen
-![Home Screen](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg)
-![Home Screen](https://joeljonassi.github.io/assets/images/Church%20App/img1.jpeg)
-![Home Screen](https://joeljonassi.github.io/assets/images/Church%20App/img2.jpeg)
-![Home Screen](https://joeljonassi.github.io/assets/images/Church%20App/img3.jpeg)
-![Home Screen](https://joeljonassi.github.io/assets/images/Church%20App/img4.jpeg)
-![Home Screen](https://joeljonassi.github.io/assets/images/Church%20App/img5.jpeg)
-![Home Screen](https://joeljonassi.github.io/assets/images/Church%20App/img6.jpeg)
-![Home Screen](https://joeljonassi.github.io/assets/images/Church%20App/img7.jpeg)
+| View Articles                          | Create Deadlines                       |
+|----------------------------------------|----------------------------------------|
+| ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) |
+
+| Upload Documents                       | User Interface                         |
+|----------------------------------------|----------------------------------------|
+| ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) |
+
+| Upload Documents                       | User Interface                         |
+|----------------------------------------|----------------------------------------|
+| ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) |
+
+
+| Upload Documents                       | User Interface                         |
+|----------------------------------------|----------------------------------------|
+| ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) | ![View Articles](https://joeljonassi.github.io/assets/images/Church%20App/img0.jpeg) |
 
 ### Member Registration
 ![Member Registration](IMAGE_PATH/member_registration.png)
